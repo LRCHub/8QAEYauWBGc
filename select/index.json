@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "のろい",
+  "base_artist": "黒うさぎ",
+  "createdAt": "2026-02-11T18:47:54.643410Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "のろい",
+      "artist": "黒うさぎ",
+      "has_synced": false,
+      "path": "select/pl_01_のろい_黒うさぎ.txt"
+    }
+  ]
+}
